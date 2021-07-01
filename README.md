@@ -30,4 +30,4 @@ Software Engineer focussed on Data Analytics
 
 
 ## Skills
-![Python](https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png) ![Java](https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png) ![Numpy](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficon-icons.com%2Fsearch%2Ficons%2Fnumpy&psig=AOvVaw0HYifUKlY_-mNv4tbsjY5D&ust=1625186165070000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCJjRgbrQwPECFQAAAAAdAAAAABAD)
+![Python](https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png) ![Python Libraries](https://w7.pngwing.com/pngs/24/563/png-transparent-scikit-learn-python-machine-learning-library-natural-language-toolkit-anaconda-animals-text-logo.png) ![Java](https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png)  ![Git](https://cdn.iconscout.com/icon/free/png-256/git-1-226092.png)
